@@ -1,0 +1,16 @@
+{
+  "app_bar": {
+    "title": "Bienvenido a la página de inicio"
+  },
+  "button": {
+    "cancel": "Cancelar",
+    "change_language": "Cambiar idioma"
+  },
+  "language": {
+    "selected_message": "El idioma seleccionado actualmente es {language}",
+    "selection": {
+      "message": "Por favor seleccione un idioma de la lista",
+      "title": "Selección de idioma"
+    }
+  }
+}

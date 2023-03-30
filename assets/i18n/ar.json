@@ -1,0 +1,16 @@
+{
+  "app_bar": {
+    "title": "مرحباً بك في الصفحة الرئيسية"
+  },
+  "button": {
+    "cancel": "إلغاء",
+    "change_language": "تغيير اللغة"
+  },
+  "language": {
+    "selected_message": "اللغة المختارة حالياً هي  {language}",
+    "selection": {
+      "message": "برجاء إختيار لغة من القائمة",
+      "title": "إختيار اللغة"
+    }
+  }
+}

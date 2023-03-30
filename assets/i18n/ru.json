@@ -1,0 +1,16 @@
+{
+  "app_bar": {
+    "title": "Приветствуем на домашней странице"
+  },
+  "button": {
+    "cancel": "Отмена",
+    "change_language": "Сменить Язык"
+  },
+  "language": {
+    "selected_message": "Текущий язык {language}",
+    "selection": {
+      "message": "Пожалуйста выберите язык из списка",
+      "title": "Выбор Языка"
+    }
+  }
+}
